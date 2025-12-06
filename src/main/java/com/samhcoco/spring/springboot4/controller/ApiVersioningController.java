@@ -11,7 +11,7 @@ public class ApiVersioningController {
 
     @GetMapping(path = "/test-v1", version = "1")
     public ResponseEntity<?> v1Api() {
-        return ResponseEntity.ok("v1 API (default setting)");
+        return ResponseEntity.ok("v1 API");
     }
 
     @GetMapping(path = "/test-v2", version = "2")
