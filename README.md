@@ -1,5 +1,5 @@
 ## Spring Boot 4 (Spring Framework 7)
-Sandbox project for experimenting with the features of Spring 7 and Spring Boot 4.
+Documentation & Sandbox project for features of Spring 7 and Spring Boot 4.
 
 ### Official Release Notes
 
@@ -13,6 +13,7 @@ https://spring.io/blog/2025/11/13/spring-framework-7-0-general-availability
 - **`JUnit 6`**
 - **`JPA 3.2 (Hibernate ORM 7.1/7.2)`**
 - **`Servlet 6.1 (Tomcat 11.0)`**
+- **`Jackson 3.0`**(while retaining deprecated support for Jackson 2.x)
 
 ## Spring 7 - Features
 
